@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Leku Genuine Tita
+# Hi there 👋, I'm Leku
 
 💻 Software Engineer | 👀 Computer Vision Enthusiast | 🚀 Open Source Learner 
 
