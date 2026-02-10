@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on: [First Aid Bot](https://github.com/lekuG12/MasterProject)
 - 🌱 Exploring: AI-powered applications and scalable backend systems  
-- 💬 Ask me about: Python, Flask, APIs
+- 💬 Ask me about: Python, Java, Flask, Spring & Springboot, APIs
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/leku-genuine-tita-573720272/) | [Email](mailto:titaleku003@gmail.com)  
 
 ---
@@ -15,6 +15,9 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+
 ---
 
 ### 📊 GitHub Stats
